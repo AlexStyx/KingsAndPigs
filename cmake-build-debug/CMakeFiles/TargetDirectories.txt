@@ -1,0 +1,4 @@
+/Users/aleksandrbiserov/CLionProjects/KingsAndPigs/cmake-build-debug/CMakeFiles/KingsAndPigs.dir
+/Users/aleksandrbiserov/CLionProjects/KingsAndPigs/cmake-build-debug/CMakeFiles/tinyxml2.dir
+/Users/aleksandrbiserov/CLionProjects/KingsAndPigs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksandrbiserov/CLionProjects/KingsAndPigs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

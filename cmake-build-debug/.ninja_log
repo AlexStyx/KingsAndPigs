@@ -1,0 +1,22 @@
+# ninja log v5
+11	537	1669907949073687831	CMakeFiles/KingsAndPigs.dir/main.cpp.o	fdc32f616513a56c
+13	360	1669987443048672087	CMakeFiles/KingsAndPigs.dir/tinyxml2.cpp.o	f1f6013e996d7222
+5	24	1670013603340726739	CMakeFiles/KingsAndPigs.dir/InputHandler.cpp.o	30cfab6dab1919f4
+7	270	1670013578549574531	CMakeFiles/KingsAndPigs.dir/Entity.cpp.o	cc9e63c410de7e59
+7	544	1669979177640773662	CMakeFiles/KingsAndPigs.dir/Character.cpp.o	34cabd126cfa7815
+7	458	1670075547126464352	CMakeFiles/KingsAndPigs.dir/Parser.cpp.o	6bdee292b2b72da
+6	474	1670075547142248780	CMakeFiles/KingsAndPigs.dir/Game.cpp.o	252dbfb0267fc6e5
+0	105	1670075575453657626	build.ninja	562d217081c001e
+7	277	1670013578556941972	CMakeFiles/KingsAndPigs.dir/BaseClass.cpp.o	4c129c0d27f18e04
+5	251	1670013630761810491	CMakeFiles/KingsAndPigs.dir/Player.cpp.o	d77281100ef72a60
+6	580	1670013578865860140	CMakeFiles/KingsAndPigs.dir/Level.cpp.o	dd2d56260ee596b9
+474	530	1670075547201673081	KingsAndPigs	d4c01055364fd263
+5	351	1670075766974372630	CMakeFiles/KingsAndPigs.dir/Game.cpp.o	252dbfb0267fc6e5
+5	228	1670075796493376259	CMakeFiles/KingsAndPigs.dir/Animation.cpp.o	645f9524cbbfacc4
+229	266	1670075796532584267	KingsAndPigs	fc4441931bc663aa
+5	352	1670075818522993288	CMakeFiles/KingsAndPigs.dir/Game.cpp.o	252dbfb0267fc6e5
+352	396	1670075818570526779	KingsAndPigs	fc4441931bc663aa
+5	351	1670075837353018938	CMakeFiles/KingsAndPigs.dir/Game.cpp.o	252dbfb0267fc6e5
+351	407	1670075837410555160	KingsAndPigs	fc4441931bc663aa
+6	342	1670075887460313266	CMakeFiles/KingsAndPigs.dir/Game.cpp.o	252dbfb0267fc6e5
+342	385	1670075887505029305	KingsAndPigs	fc4441931bc663aa
